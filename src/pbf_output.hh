@@ -26,6 +26,7 @@
 #include <fcntl.h>
 #include <snappy.h>
 #include <pthread.h>
+#include <unistd.h>
 #include "dcIndexedList.hh"
 
 using namespace std;
